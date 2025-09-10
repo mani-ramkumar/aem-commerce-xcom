@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xcom/main"
+    url: "https://content.da.live/mani-ramkumar/aem-commerce-xcom/"
     type: "markup"
     suffix: ".html"
 folders:
